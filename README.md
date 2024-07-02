@@ -1,2 +1,2 @@
-# HTML and CSS Basics
-This repository includes documentation that goes over the basics of HTML and CSS.
+# HTML Basics
+This repository includes documentation covering the basics of HTML.
